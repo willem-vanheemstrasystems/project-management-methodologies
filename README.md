@@ -5,7 +5,7 @@ Based on "What's the Difference? Agile vs Scrum vs Waterfall vs Kanban" at [http
 
 ## Waterfall
 Waterfall is a method.
-See [README.md](https://github.com/willem-vanheemstrasystems/project-management-methodologies/master/README.md)
+See [README.md](https://github.com/willem-vanheemstrasystems/project-management-methodologies/waterfall/blob/master/README.md)
 
 ## Agile
 Agile is a philosophy.
