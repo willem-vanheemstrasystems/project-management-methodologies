@@ -12,9 +12,9 @@ Agile is a philosophy.
 See [README.md](https://github.com/willem-vanheemstrasystems/project-management-methodologies/blob/master/agile/README.md)
 
 ### Scrum
-Scrum is a framework.
+Scrum is an agile framework.
 See [README.md](https://github.com/willem-vanheemstrasystems/project-management-methodologies/blob/master/agile/scrum/README.md)
 
 ### Kanban
-Kanban is a control system.
+Kanban is an agile control system.
 See [README.md](https://github.com/willem-vanheemstrasystems/project-management-methodologies/blob/master/agile/kanban/README.md)
